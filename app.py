@@ -450,4 +450,4 @@ with tab3:
             width="stretch"
         )
     else:
-        st.info("No purchases logged yet. Calculate and log items from
+st.info("No purchases logged yet. Calculate and log items from Tab 1, win an item from your Watchlist, or manually add an item above.")
